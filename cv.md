@@ -16,6 +16,7 @@ I work in sale and wholesale trade field. I am involved in filling the website w
   * VS Code
 
 #### Code Example:
+In this kata you will create a function that takes a list of non-negative integers and strings and returns a new list with the strings filtered out.
 ```javascript
 function filter_list(l) {
     return l.filter(function(v){
@@ -23,3 +24,6 @@ function filter_list(l) {
     })
 }
 ```
+#### Languages
+   * Russian - Native
+   * English - B2
