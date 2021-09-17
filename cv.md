@@ -15,4 +15,11 @@ I work in sale and wholesale trade field. I am involved in filling the website w
   * Git, GitHub
   * VS Code
 
-#### Code Example
+#### Code Example:
+```javascript
+function filter_list(l) {
+    return l.filter(function(v){
+        return (typeof v == "number");
+    })
+}
+```
